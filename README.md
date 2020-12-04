@@ -7,5 +7,5 @@ Escolhe se quer jogar contra o bot,singleplayer ou contra outro jogador multipla
 
 O jogador preto começa o jogo
 
-pra escolher onde se  joga:  
+para escolher onde se  joga:  
   se soma a linha mais a coluna para colocar a peça em determinada casa
